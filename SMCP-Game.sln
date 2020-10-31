@@ -21,6 +21,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SM-CompetitionPlusV5", "SM-
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "55939"
+		SlnRelativePath = "SM-CompetitionPlusV5\"
 	EndProjectSection
 EndProject
 Global
